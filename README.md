@@ -12,4 +12,4 @@
 - 📫 How to reach me: brice.mosby1@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy spending time out in nature with my wife and two kids
--->
+
