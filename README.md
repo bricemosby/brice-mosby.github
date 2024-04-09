@@ -3,7 +3,7 @@
 
 <h2>✨ About Me </h2>
 
-Hi my name is Brice. I am a cybersecurity and IT studdent. I am currently completing a certfication in Comptia Security + and plan to continue adding more certifications.
+Hi my name is Brice. I am a Cybersecurity and IT student. I am currently completing a certfication in Comptia Security + and plan to continue adding more certifications.
 
 
 <h2> 🧰 Languages and Tools </h2>
