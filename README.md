@@ -24,7 +24,7 @@ Hi my name is Brice. I am a cybersecurity and IT studdent. I am currently comple
 - 🔭 I’m currently working on studying for Comptia Security + exam
 - 🌱 I’m currently learning Python, SQL, the in and outs of Virtual Machine Boxes such as Oracle
 - 🤔 I’m looking for help with interviewing for jobs in Cyber Security
-- 💬 Ask me about: My dreams and aspirations
+- 💬 Ask me about my dreams and aspirations
 - 📫 How to reach me: brice.mosby1@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy spending time out in nature with my wife and two kids
