@@ -18,7 +18,7 @@ Hi my name is Brice. I am a cybersecurity and IT studdent. I am currently comple
 
 -<b> Modifying File Permissions Using Linux: (https://github.com/bricemosby/FilePermissionsLinux)</b>
 
--<b> Applying Filters To SQL Queries: 
+-<b> Applying Filters To SQL Queries: (https://github.com/bricemosby/ApplyingSQLFilters)</b>
 
 
 - 🔭 I’m currently working on studying for Comptia Security + exam
